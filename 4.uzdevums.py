@@ -4,9 +4,8 @@ saraksts=[ievade]
 
 while skaitlis>0:
     skaitlis-=1
-    rez=ievade*ievade-1
+    rez=ievade*skaitlis
     rez2=rez*skaitlis
-    print(rez2)
 
 """
 for koprez in saraksts:
